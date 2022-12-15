@@ -1,0 +1,10 @@
+google-cloud-storage
+requests
+pillow
+celery
+aiohttp
+scikit-image
+plotly
+pandas
+matplotlib
+kaleido
